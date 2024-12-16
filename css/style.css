@@ -9,7 +9,7 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background-color: white;
+  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
